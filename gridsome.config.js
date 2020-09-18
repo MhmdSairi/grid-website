@@ -5,16 +5,16 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Yanuar Aditia',
-  siteUrl: 'https://yanuaraditia.com',
+  siteName: 'MhmdSairi',
+  siteUrl: 'https://mhmdsairi.vercel.app',
   plugins: [
     {
       use: "gridsome-plugin-manifest",
       options: {
         background_color: "#000000",
         icon_path: "./src/favicon.png",
-        name: "Yanuar Aditia",
-        short_name: "Yanuar",
+        name: "MhmdSairi",
+        short_name: "Sairi",
         theme_color: "#efabc0",
         lang: "en",
       },
