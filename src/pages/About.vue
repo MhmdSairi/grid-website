@@ -16,7 +16,7 @@
               <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Freelance :</strong> Available</div>
               <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Address :</strong> Banjarmasin, ID</div>
               <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Chat :</strong><a href="//t.me/mhmdsairi" class="has-text-white"> t.me/mhmdsairi</a></div>
-              <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Mail :</strong><a href="mailto:mhmdsairi@outlook.com" class="has-text-white"> mhmdsairi@outlook.com</a></div>
+              <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">WhatsApp :</strong><a href="https://bit.ly/3caV1XX" class="has-text-white"> 085349945947</a></div>
             </div>
           </div>
         </div>
