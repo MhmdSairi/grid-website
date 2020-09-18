@@ -9,14 +9,14 @@
             <g-image src="~/images/pp.jpg"></g-image>
           </div>
           <div class="column is-10">
-            <p>Hello! I’m Yanuar Aditia. Software Engineer from Indonesia, Yogyakarta, Sleman. I have rich experience in web development and also UI / UX Development.</p>
+            <p>Hello! I’m MhmdSairi. Software Engineer from Indonesia, Kalimantan Selatan, Banjarmasin. I have rich experience in web development and also UI / UX Development.</p>
             <div class="columns is-multiline mt-3">
               <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Age :</strong> {{calculateAge}}</div>
               <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Residence :</strong> Indonesia</div>
               <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Freelance :</strong> Available</div>
-              <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Address :</strong> Yogyakarta, ID</div>
-              <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Chat :</strong><a href="//t.me/yanuaraditia" class="has-text-white"> t.me/yanuaraditia</a></div>
-              <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Mail :</strong><a href="mailto:yanuarditia@outlook.com" class="has-text-white"> yanuarditia@outlook.com</a></div>
+              <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Address :</strong> Banjarmasin, ID</div>
+              <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Chat :</strong><a href="//t.me/mhmdsairi" class="has-text-white"> t.me/mhmdsairi</a></div>
+              <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Mail :</strong><a href="mailto:mhmdsairi@outlook.com" class="has-text-white"> mhmdsairi@outlook.com</a></div>
             </div>
           </div>
         </div>
@@ -65,7 +65,7 @@ export default {
   computed:{
     calculateAge() {
       let currentDate = new Date();
-      let birthDate = new Date("1999/01/07");
+      let birthDate = new Date("2000/07/10");
       let difference = currentDate - birthDate;
       let age = Math.floor(difference/31557600000);
       return age
