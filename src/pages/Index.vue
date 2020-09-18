@@ -17,7 +17,7 @@
 export default {
   metaInfo: {
     title: 'Here I am',
-    description: 'I’m from Kebumen, Indonesia and I have been working as a junior front-end programmer for more than 3 years and still love to do it every day. I’ve worked for Indonesian company called Tries and also my own Paparkir as a full-stack developer since 2018. I’ve been freelancing for the last 4 years, and right now I am looking forward to working with you!',
+    description: 'I’m from Banjarmasin, Indonesia and I have been working as a junior front-end programmer for more than 2 years and still love to do it every day.',
   },
   data() {
     return {
@@ -25,7 +25,7 @@ export default {
         'Backend Developer',
         'PHP Programmer',
         'UI / UX Lover',
-        'Girl?',
+        'Girl ?',
         'Fullstack?'
       ]
     }
