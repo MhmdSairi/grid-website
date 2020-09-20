@@ -15,7 +15,7 @@ module.exports = {
         icon_path: "./src/favicon.png",
         name: "MhmdSairi",
         short_name: "Sairi",
-        theme_color: "#efabc0",
+        theme_color: "#ffffff",
         lang: "en",
       },
     },
