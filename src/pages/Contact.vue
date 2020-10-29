@@ -12,6 +12,7 @@
                 <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">GitHub :</strong><a href="//github.com/MhmdSairi" class="has-text-white"> github.com/MhmdSairi</a></div>
                 <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">GitLab :</strong><a href="//gitlab.com/MhmdSairi" class="has-text-white"> gitlab.com/MhmdSairi</a></div>
                 <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Instagram :</strong><a href="//instagram.com/mhmdsairi_" class="has-text-white"> mhmdsairi_</a></div>
+<div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Sestyc :</strong><a href="https://bit.ly/31UjWLt" class="has-text-white"> MhmdSairi</a></div>
             </div>
         </div>
     </section>
