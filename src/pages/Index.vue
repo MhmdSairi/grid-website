@@ -25,7 +25,7 @@ export default {
         'Backend Developer',
         'PHP Programmer',
         'UI / UX Lover',
-        'Boy ?',
+        '🤍 Nadila',
         'Fullstack?'
       ]
     }
