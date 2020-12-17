@@ -15,4 +15,4 @@ This is the project you get when you run `gridsome create new-project`.
 
 ### 3. VISIT DEMO WEBSITE
 
-https://mhmdsairi.vercel.app.com/
+https://mhmdsairi.vercel.app/
