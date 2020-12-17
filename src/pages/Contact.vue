@@ -6,7 +6,7 @@
             <h3 class="title is-5 has-text-primary">Stay In Touch</h3>
             <p>You can find me around the web:</p>
             <div class="columns is-multiline mt-3">
-            <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">My Dear :</strong><a href="#" class="has-text-white"> Nadila Septianti</a></div>
+            <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">My Dear :</strong><a href="#" class="has-text-white"> Nadila Sepianti</a></div>
                 <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Telegram :</strong><a href="//t.me/mhmdsairi" class="has-text-white"> t.me/mhmdsairi</a></div>
                 <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">WhatsApp :</strong><a href="https://bit.ly/3caV1XX" class="has-text-white"> +6285349945947</a></div>
                 <div class="column is-6 is-4-widescreen"><strong class="has-text-primary">Blog :</strong><a href="https://ironimouse.blogspot.com/" class="has-text-white"> Ironimouse</a></div>
