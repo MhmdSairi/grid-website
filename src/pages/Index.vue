@@ -22,7 +22,7 @@ export default {
   data() {
     return {
       subtitle: [
-      '🧡Nadila Sepianti'
+      '🧡 Nadila Sepianti',
         'Backend Developer',
         'PHP Programmer',
         'UI / UX Lover',
